@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hallo zusammen!
+hakuna matata
 Use the left arrow to go back!
